@@ -1,6 +1,6 @@
 # E-commerce Database Analysis Project
 
-This project contains a comprehensive data analysis of an e-commerce database, performed as a **group case study** for Data analyst by Riverloop(Forma.Temp).
+This project contains a comprehensive data analysis of an e-commerce database, performed as a **group case study** for Data analyst course by Riverloop(Forma.Temp).
 
 The analysis is divided into two parts:
 
