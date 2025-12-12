@@ -20,9 +20,9 @@ The key findings and dynamic dashboards are presented in the public Tableau work
 
 * **Tableau Public Link:** https://public.tableau.com/views/Dashboardanalisivenditee-commerce_17655692610910/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-### Immagini Statiche di Risultato
+### Static Result Images
 
-Qui di seguito sono riportate alcune immagini statiche generate durante l'analisi per chiarezza e riproducibilità.
+Below are some static images generated during the analysis for clarity and reproducibility.
 ![Home](visuals/Home.png)
 ![Bar chart](visuals/Bar%20chart.png)
 ![Line chart](visuals/Line%20chart.png)
