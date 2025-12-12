@@ -24,8 +24,8 @@ The key findings and dynamic dashboards are presented in the public Tableau work
 
 Qui di seguito sono riportate alcune immagini statiche generate durante l'analisi per chiarezza e riproducibilità.
 ![Home](visuals/Home.png)
-![Bar chart](visuals/Bar chart.png)
-![Line chart](visuals/Line chart.png)
+![Bar chart](visuals/Bar%20chart.png)
+![Line chart](visuals/Line%20chart.png)
 ![Pivot](visuals/Pivot.png)
 
 ## Data
